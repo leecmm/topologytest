@@ -6,3 +6,4 @@ export function peopleTextRect(node) {
     node.textRect = new Rect(0, 0, 0, 0);
     node.fullTextRect = node.textRect;
 }
+//# sourceMappingURL=people.rect.js.map

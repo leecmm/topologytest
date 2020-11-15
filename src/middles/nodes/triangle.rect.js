@@ -20,3 +20,4 @@ export function triangleTextRect(node) {
     var h = (node.rect.height * 3) / 7;
     node.fullTextRect = new Rect(node.rect.x + (node.rect.width - w) / 2, node.rect.y + node.rect.height / 2 - 5, w, h);
 }
+//# sourceMappingURL=triangle.rect.js.map

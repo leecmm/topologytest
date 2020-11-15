@@ -8,3 +8,4 @@ export function lineControlPoints(ctx, l) { }
 export function calcLineControlPoints(l) {
     l.controlPoints = [];
 }
+//# sourceMappingURL=line.js.map

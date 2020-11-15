@@ -8,3 +8,4 @@ export function rectangleTextRect(node) {
     node.textRect = new Rect(node.rect.x + node.paddingLeftNum + height, node.rect.y + node.paddingTopNum, node.rect.width - node.paddingLeftNum - node.paddingRightNum - height, height);
     node.fullTextRect = new Rect(node.rect.x + node.paddingLeftNum, node.rect.y + node.paddingTopNum, node.rect.width - node.paddingLeftNum - node.paddingRightNum, height);
 }
+//# sourceMappingURL=rectangle.rect.js.map

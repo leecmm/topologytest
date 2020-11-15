@@ -48,3 +48,4 @@ var Socket = /** @class */ (function () {
     return Socket;
 }());
 export { Socket };
+//# sourceMappingURL=socket.js.map

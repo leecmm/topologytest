@@ -8,3 +8,4 @@ export function defaultTextRect(node) {
     node.textRect = new Rect(node.rect.x + node.paddingLeftNum, node.rect.y + node.paddingTopNum + (height * 3) / 4, node.rect.width - node.paddingLeftNum - node.paddingRightNum, height / 4);
     node.fullTextRect = new Rect(node.rect.x + node.paddingLeftNum, node.rect.y + node.paddingTopNum, node.rect.width - node.paddingLeftNum - node.paddingRightNum, height);
 }
+//# sourceMappingURL=default.rect.js.map

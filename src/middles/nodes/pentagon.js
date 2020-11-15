@@ -9,3 +9,4 @@ export function pentagon(ctx, node) {
     (node.fillStyle || node.bkType) && ctx.fill();
     ctx.stroke();
 }
+//# sourceMappingURL=pentagon.js.map

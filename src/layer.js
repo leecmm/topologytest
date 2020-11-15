@@ -8,3 +8,4 @@ var Layer = /** @class */ (function () {
     return Layer;
 }());
 export { Layer };
+//# sourceMappingURL=layer.js.map

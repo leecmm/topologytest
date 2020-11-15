@@ -76,3 +76,4 @@ export function curveLen(from, cp1, cp2, to) {
     path.setAttribute('d', "M" + from.x + " " + from.y + " C" + cp1.x + " " + cp1.y + " " + cp2.x + " " + cp2.y + " " + to.x + " " + to.y);
     return path.getTotalLength() | 0;
 }
+//# sourceMappingURL=canvas.js.map

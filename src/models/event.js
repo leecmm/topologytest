@@ -13,3 +13,4 @@ export var EventAction;
     EventAction[EventAction["WindowFn"] = 3] = "WindowFn";
     EventAction[EventAction["SetProps"] = 4] = "SetProps";
 })(EventAction || (EventAction = {}));
+//# sourceMappingURL=event.js.map

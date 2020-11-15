@@ -24,3 +24,4 @@ export function circleTextRect(node) {
     var h = (node.rect.height * 5) / 7;
     node.fullTextRect = new Rect(node.rect.x + (node.rect.width - w) / 2, node.rect.y + (node.rect.height - h) / 2, w, h);
 }
+//# sourceMappingURL=circle.rect.js.map

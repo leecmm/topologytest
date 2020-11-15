@@ -234,3 +234,4 @@ export function iconfont(ctx, node) {
     ctx.fillText(node.icon, x, y);
     ctx.restore();
 }
+//# sourceMappingURL=text.js.map

@@ -7,3 +7,4 @@ export function cubeAnchors(node) {
     node.anchors.push(new Point(node.rect.ex - offset / 2, node.rect.y + node.rect.height / 2, Direction.Right));
     node.anchors.push(new Point(node.rect.x + (node.rect.width - offset) / 2, node.rect.y + node.rect.height, Direction.Bottom));
 }
+//# sourceMappingURL=cube.anchor.js.map

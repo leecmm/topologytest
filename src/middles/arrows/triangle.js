@@ -22,3 +22,4 @@ export function triangleSolid(ctx, from, to, size, fillStyle) {
 export function triangle(ctx, from, to, size) {
     triangleSolid(ctx, from, to, size, '#fff');
 }
+//# sourceMappingURL=triangle.js.map

@@ -6,3 +6,4 @@ export function messageAnchors(node) {
     node.anchors.push(new Point(node.rect.x + node.rect.width, node.rect.y + (node.rect.height * 3) / 8, Direction.Right));
     node.anchors.push(new Point(node.rect.x + node.rect.width / 4, node.rect.ey, Direction.Bottom));
 }
+//# sourceMappingURL=message.anchor.js.map

@@ -87,3 +87,4 @@ export function pointInMind(point, l) {
     }
     return false;
 }
+//# sourceMappingURL=mind.js.map

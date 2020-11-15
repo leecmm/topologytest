@@ -11,3 +11,4 @@ export function hexagon(ctx, node) {
     (node.fillStyle || node.bkType) && ctx.fill();
     ctx.stroke();
 }
+//# sourceMappingURL=hexagon.js.map

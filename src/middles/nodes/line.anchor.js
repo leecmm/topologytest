@@ -10,3 +10,4 @@ export function lineAnchors(node) {
         node.anchors.push(pt);
     }
 }
+//# sourceMappingURL=line.anchor.js.map

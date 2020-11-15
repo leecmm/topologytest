@@ -47,3 +47,4 @@ export function getRect(pens) {
     }
     return new Rect(x1, y1, x2 - x1, y2 - y1);
 }
+//# sourceMappingURL=rect.js.map

@@ -44,3 +44,4 @@ var Offscreen = /** @class */ (function (_super) {
     return Offscreen;
 }(Canvas));
 export { Offscreen };
+//# sourceMappingURL=offscreen.js.map

@@ -62,3 +62,4 @@ function getImgHeight(node) {
     }
     return imgHeight;
 }
+//# sourceMappingURL=image.rect.js.map

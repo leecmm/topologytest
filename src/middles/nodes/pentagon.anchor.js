@@ -7,3 +7,4 @@ export function pentagonAnchors(node) {
     node.anchors.push(new Point(node.rect.x + node.rect.width / 5, node.rect.y + node.rect.height, Direction.Bottom));
     node.anchors.push(new Point(node.rect.x, node.rect.y + (node.rect.height * 2) / 5, Direction.Left));
 }
+//# sourceMappingURL=pentagon.anchor.js.map

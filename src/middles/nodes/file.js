@@ -13,3 +13,4 @@ export function file(ctx, node) {
     (node.fillStyle || node.bkType) && ctx.fill();
     ctx.stroke();
 }
+//# sourceMappingURL=file.js.map

@@ -20,3 +20,4 @@ export function pentagonTextRect(node) {
     var h = (node.rect.height * 3) / 5;
     node.fullTextRect = new Rect(node.rect.x + (node.rect.width - w) / 2, node.rect.y + node.rect.height / 4, w, h);
 }
+//# sourceMappingURL=pentagon.rect.js.map

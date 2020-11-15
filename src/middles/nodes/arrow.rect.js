@@ -20,3 +20,4 @@ export function twowayArrowTextRect(node) {
     node.textRect = new Rect(node.rect.x + node.rect.height / 2, node.rect.y + node.rect.height / 3, node.rect.width - node.rect.height, node.rect.height / 3);
     node.fullTextRect = node.textRect;
 }
+//# sourceMappingURL=arrow.rect.js.map

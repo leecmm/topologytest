@@ -196,3 +196,4 @@ var HoverLayer = /** @class */ (function (_super) {
     return HoverLayer;
 }(Layer));
 export { HoverLayer };
+//# sourceMappingURL=hoverLayer.js.map

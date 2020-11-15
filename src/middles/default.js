@@ -243,3 +243,4 @@ export function registerArrow(name, drawFn, force) {
     return true;
 }
 window.registerTopologyNode = registerNode;
+//# sourceMappingURL=default.js.map

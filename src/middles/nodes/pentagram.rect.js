@@ -8,3 +8,4 @@ export function pentagramTextRect(node) {
     node.fullTextRect = new Rect(node.rect.x + (node.rect.width - w) / 2, node.rect.y + (node.rect.height - h) / 2, w, h);
     node.textRect = node.fullTextRect;
 }
+//# sourceMappingURL=pentagram.rect.js.map

@@ -15,3 +15,4 @@ export function circleAnchors(node) {
         node.anchors.push(pt);
     }
 }
+//# sourceMappingURL=circle.anchor.js.map

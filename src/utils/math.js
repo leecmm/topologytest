@@ -76,3 +76,4 @@ export function abs(num, percent) {
     percent = percent.substr(0, percent.length - 1);
     return (num * +percent) / 100;
 }
+//# sourceMappingURL=math.js.map

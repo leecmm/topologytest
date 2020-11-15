@@ -17,3 +17,4 @@ export function circleSolid(ctx, from, to, size, fillStyle) {
 export function circle(ctx, from, to, size) {
     circleSolid(ctx, from, to, size, '#fff');
 }
+//# sourceMappingURL=circle.js.map

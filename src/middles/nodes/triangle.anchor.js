@@ -6,3 +6,4 @@ export function triangleAnchors(node) {
     node.anchors.push(new Point(node.rect.x + node.rect.width / 2, node.rect.y + node.rect.height, Direction.Bottom));
     node.anchors.push(new Point(node.rect.x + node.rect.width / 4, node.rect.y + node.rect.height / 2, Direction.Left));
 }
+//# sourceMappingURL=triangle.anchor.js.map

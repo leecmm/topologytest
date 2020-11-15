@@ -27,3 +27,4 @@ export function loadJS(url, callback, render) {
     });
     document.body.appendChild(loaderScript);
 }
+//# sourceMappingURL=dom.js.map

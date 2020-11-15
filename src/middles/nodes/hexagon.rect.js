@@ -11,3 +11,4 @@ export function hexagonTextRect(node) {
     node.textRect = new Rect(node.rect.x + node.rect.width / 5 + node.paddingLeftNum, node.rect.y + node.rect.height - h + node.paddingTopNum, w - node.paddingLeftNum - node.paddingRightNum, h);
     node.fullTextRect = new Rect(node.rect.x + node.rect.width / 5 + node.paddingLeftNum, node.rect.y + node.paddingTopNum, w - node.paddingLeftNum - node.paddingRightNum, node.rect.height - node.paddingTopNum - node.paddingBottomNum);
 }
+//# sourceMappingURL=hexagon.rect.js.map

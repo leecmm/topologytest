@@ -25,3 +25,4 @@ export function diamondSolid(ctx, from, to, size, fillStyle) {
 export function diamond(ctx, from, to, size) {
     diamondSolid(ctx, from, to, size, '#fff');
 }
+//# sourceMappingURL=diamond.js.map

@@ -37,3 +37,4 @@ export var DefalutOptions = {
     autoExpandDistance: 200,
     keydown: KeydownType.Document,
 };
+//# sourceMappingURL=options.js.map

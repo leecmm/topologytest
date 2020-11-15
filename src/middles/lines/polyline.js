@@ -306,3 +306,4 @@ function getVerticalPoints(up, bottom) {
     var y = up.y + (bottom.y - up.y) / 2;
     return [new Point(up.x, y), new Point(bottom.x, y)];
 }
+//# sourceMappingURL=polyline.js.map

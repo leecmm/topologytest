@@ -55,3 +55,4 @@ var Point = /** @class */ (function () {
     return Point;
 }());
 export { Point };
+//# sourceMappingURL=point.js.map

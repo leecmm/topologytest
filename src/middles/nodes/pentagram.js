@@ -8,3 +8,4 @@ export function pentagram(ctx, node) {
     (node.fillStyle || node.bkType) && ctx.fill();
     ctx.stroke();
 }
+//# sourceMappingURL=pentagram.js.map

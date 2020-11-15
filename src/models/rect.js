@@ -90,3 +90,4 @@ var Rect = /** @class */ (function () {
     return Rect;
 }());
 export { Rect };
+//# sourceMappingURL=rect.js.map

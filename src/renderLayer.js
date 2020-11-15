@@ -86,3 +86,4 @@ var RenderLayer = /** @class */ (function (_super) {
     return RenderLayer;
 }(Canvas));
 export { RenderLayer };
+//# sourceMappingURL=renderLayer.js.map

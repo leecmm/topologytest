@@ -124,3 +124,4 @@ export function getControlPt(pt, to) {
 export function generateStoreKey(pen, key) {
     return pen.getTID() + "-" + key;
 }
+//# sourceMappingURL=curve.js.map

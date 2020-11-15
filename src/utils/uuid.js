@@ -10,3 +10,4 @@ export function s12() {
 export function s16() {
     return s8() + s8();
 }
+//# sourceMappingURL=uuid.js.map

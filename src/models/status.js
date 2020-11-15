@@ -10,3 +10,4 @@ export var AnchorMode;
     AnchorMode[AnchorMode["In"] = 1] = "In";
     AnchorMode[AnchorMode["Out"] = 2] = "Out";
 })(AnchorMode || (AnchorMode = {}));
+//# sourceMappingURL=status.js.map

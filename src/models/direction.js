@@ -6,3 +6,4 @@ export var Direction;
     Direction[Direction["Bottom"] = 3] = "Bottom";
     Direction[Direction["Left"] = 4] = "Left";
 })(Direction || (Direction = {}));
+//# sourceMappingURL=direction.js.map

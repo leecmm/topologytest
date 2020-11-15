@@ -8,3 +8,4 @@ export function diamond(ctx, node) {
     (node.fillStyle || node.bkType) && ctx.fill();
     ctx.stroke();
 }
+//# sourceMappingURL=diamond.js.map

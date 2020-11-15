@@ -61,3 +61,4 @@ var Cube = /** @class */ (function () {
     return Cube;
 }());
 export { Cube };
+//# sourceMappingURL=cube.model.js.map

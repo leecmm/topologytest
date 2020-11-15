@@ -7,3 +7,4 @@ export function triangle(ctx, node) {
     (node.fillStyle || node.bkType) && ctx.fill();
     ctx.stroke();
 }
+//# sourceMappingURL=triangle.js.map

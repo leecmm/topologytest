@@ -24,3 +24,4 @@ export function diamondTextRect(node) {
     var h = (node.rect.height * 1) / 2;
     node.fullTextRect = new Rect(node.rect.x + (node.rect.width - w) / 2, node.rect.y + node.rect.height / 4, w, h);
 }
+//# sourceMappingURL=diamond.rect.js.map

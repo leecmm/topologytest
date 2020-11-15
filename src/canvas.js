@@ -78,3 +78,4 @@ var Canvas = /** @class */ (function (_super) {
     return Canvas;
 }(Layer));
 export { Canvas };
+//# sourceMappingURL=canvas.js.map

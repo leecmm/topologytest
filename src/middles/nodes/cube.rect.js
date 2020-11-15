@@ -8,3 +8,4 @@ export function cubeTextRect(node) {
     node.fullTextRect = new Rect(node.rect.x, node.rect.y + offset, node.rect.width - offset, node.rect.height - offset);
     node.textRect = new Rect(node.fullTextRect.x + 10, node.fullTextRect.y + (node.fullTextRect.height * 2) / 3, node.fullTextRect.width - 20, node.fullTextRect.height / 3 - 5);
 }
+//# sourceMappingURL=cube.rect.js.map
